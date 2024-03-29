@@ -9,40 +9,42 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 나비의 기록 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Backend Developer Ji-Un Gil # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Copyright 2024. All rights reserved.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://butterfly-blog.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: Ji-Un-Gil # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+  # username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Ji-Un Gil
+  email: lak2577@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/Ji-Un-Gil # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/be-gju/
+
+future: true
 
 # Site Verification Settings
 webmaster_verifications:
@@ -59,7 +61,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-D2P4XZELHX # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
 
@@ -78,7 +80,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -88,7 +90,7 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://file.notion.so/f/f/5018f518-2b7d-4bd7-aec6-552d50a8b978/0e01448d-1867-4126-b998-bb8453dff70c/avatar.png?id=72b3110f-20c1-4aed-84cf-b3085764d1ab&table=block&spaceId=5018f518-2b7d-4bd7-aec6-552d50a8b978&expirationTimestamp=1711785600000&signature=gN-rQVgg2gsx1QqjhCppf2_H5uaF1lDpcYB4gtLITYs&downloadName=avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
