@@ -29,7 +29,7 @@ github:
   username: Ji-Un-Gil # change to your github username
 
 # twitter:
-  # username: twitter_username # change to your twitter username
+# username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -90,7 +90,7 @@ theme_mode: light # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://file.notion.so/f/f/5018f518-2b7d-4bd7-aec6-552d50a8b978/0e01448d-1867-4126-b998-bb8453dff70c/avatar.png?id=72b3110f-20c1-4aed-84cf-b3085764d1ab&table=block&spaceId=5018f518-2b7d-4bd7-aec6-552d50a8b978&expirationTimestamp=1711785600000&signature=gN-rQVgg2gsx1QqjhCppf2_H5uaF1lDpcYB4gtLITYs&downloadName=avatar.png"
+avatar: "https://github.com/Ji-Un-Gil/butterfly-blog.github.io/assets/90232934/f8ddceb2-96e1-4799-b0c9-014420cc17dd"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
